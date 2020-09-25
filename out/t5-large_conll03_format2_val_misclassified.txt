@@ -1,0 +1,1300 @@
+They were held up by a gritty 84 from Paul Johnson but ex-England fast bowler Martin McCague took four for 55 .
+O O O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O O O O O
+O O O O O O O O O B-PER I-PER O B-MISC O O B-PER I-PER O O O O O
+
+CRICKET - 1997 ASHES INTINERARY .
+O O O B-ORG O O
+O O O B-MISC O O
+
+English county sides and another against British Universities ,
+B-MISC O O O O O B-MISC O O
+B-MISC O O O O O B-ORG I-ORG O
+
+as well as one-day matches against the Minor Counties and
+O O O O O O O B-MISC I-MISC O
+O O O O O O O B-ORG I-ORG O
+
+May 14 Practice at Lord 's
+O O O O O O
+O O O O B-LOC I-LOC
+
+May 15 v Duke of Norfolk 's XI ( at Arundel )
+O O O B-PER I-PER I-PER O O O O B-LOC O
+O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O B-LOC O
+
+May 25 Third one-day international ( at Lord 's , London )
+O O O O O O O O O O B-LOC O
+O O O O O O O B-LOC I-LOC O B-LOC O
+
+June
+B-LOC
+O
+
+June 19-23 Second test ( at Lord 's )
+O O O O O O O O O
+O O O O O O B-LOC I-LOC O
+
+July 9 v Minor Counties XI
+O O O B-ORG I-ORG O
+O O O B-ORG I-ORG I-ORG
+
+August
+B-LOC
+O
+
+BASKETBALL - INTERNATIONAL TOURNAMENT RESULT .
+O O B-MISC O O O
+O O O O O O
+
+SOCCER - ROTOR FANS LOCKED OUT AFTER VOLGOGRAD VIOLENCE .
+O O B-ORG O O O O B-ORG O O
+O O B-ORG O O O O B-LOC O O
+
+Rotor Volgograd must play their next home game behind closed doors after fans hurled bottles and stones at Dynamo Moscow players during a 1-0 home defeat on Saturday that ended Rotor 's brief spell as league leaders .
+B-ORG I-ORG O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O
+B-ORG I-ORG O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O B-ORG O O O O O O O
+
+Lying three points behind Alania and two behind Dynamo Moscow , the Volgograd side have a game in hand over the leaders and two over the Moscow club .
+O O O O B-ORG O O O B-ORG I-ORG O O B-ORG O O O O O O O O O O O O O O O O
+O O O O B-ORG O O O B-ORG I-ORG O O B-LOC O O O O O O O O O O O O O B-LOC O O
+
+The fight , Duran 's first on home soil for 10 years , is being billed here as the " Return of the Legend " and Duran still talks as if he was in his prime .
+O O O B-PER O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O
+O O O B-PER O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O B-PER O O O O O O O O O O
+
+If he loses Saturday , it could devalue his position as one of the world 's great boxers , " Panamanian Boxing Association President Ramon Manzanares said .
+O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-PER I-PER O O
+O O O O O O O O O O O O O O O O O O O O B-MISC B-ORG I-ORG O B-PER I-PER O O
+
+Anthony Hill ( Australia ) beat Dan Jenson ( Australia ) 15-9 15-8 15-17 17-15
+B-PER I-PER O B-LOC O O B-PER I-PER O O O O O O O
+B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O O
+
+Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0
+O O O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O O O O B-PER I-PER O O O O B-PER I-PER O B-LOC O O O O O O O O O
+O O O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O O O O O O
+
+Add Women 's singles , third round Lisa Raymond ( U.S. ) beat Kimberly Po ( U.S. ) 6-3 6-2
+O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O O O O O
+O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O
+
+Petr Korda ( Czech Republic ) bat Bohdan Ulihrach ( Czech
+B-PER I-PER O B-LOC I-LOC O O B-PER I-PER O O
+B-PER I-PER O B-LOC I-LOC O O B-PER I-PER O B-LOC
+
+The 11th-seeded Washington fell short of reprising his Wimbledon miracle comeback as he lost to red-hot wildcard Alex O'Brien 6-3 6-4 5-7 3-6 6-3 in a two hour 51 minute struggle on the Stadium court .
+O O B-PER O O O O O B-MISC O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O B-LOC O O
+O O B-PER O O O O O B-MISC O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+
+Tarango , whose Wimbledon tantrum two years ago brought him a $ 28,000 fine and suspension from this year 's tournament at the All-England Club , argued calls and taunted fans in his lively two hour , 24 minute tango with Rios on the grandstand .
+B-PER O O B-MISC O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O B-PER O O O O
+B-PER O O B-MISC O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O B-PER O O O O
+
+NFL AMERICAN FOOTBALL-RANDALL CUNNINGHAM RETIRES .
+B-MISC I-MISC O O O O
+B-ORG B-MISC I-MISC B-PER O O
+
+Randall Cunningham , the National Football League 's all-time leading rusher as a quarterback and one of the most athletic players ever to line up over centre , retired Thursday .
+B-PER I-PER O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O
+B-PER I-PER O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+
+" I would like to thank the Eagles organisation and the wonderful fans of Philadelphia for supporting me throughout my career , " Cunningham said .
+O O O O O O O B-ORG O O O O O O B-LOC O O O O O O O O B-PER O O
+O O O O O O O B-ORG O O O O O O B-ORG O O O O O O O O B-PER O O
+
+During his 11 years in Philadelphia , Randall was the cornerstone of the Eagles ' franchise and brought many great moments to fans in Philadelphia as well as across the NFL . "
+O O O O O B-LOC O B-PER O O O O O B-ORG O O O O O O O O O O O O O O O O B-ORG O O
+O O O O O B-LOC O B-PER O O O O O B-ORG O O O O O O O O O O B-LOC O O O O O B-ORG O O
+
+American Dennis Mitchell outclassed Olympic 100 metres champion Donovan Bailey for the third time at a major post-Games meeting in front of the most experienced sprinting crowd in the world on Friday .
+B-MISC B-PER I-PER O B-MISC O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+B-MISC B-PER I-PER O B-MISC O O O B-PER I-PER O O O O O O O B-MISC O O O O O O O O O O O O O O O
+
+Leading results at the Berlin
+O O O O B-LOC
+O O O O B-MISC
+
+( Nigeria ) , Davidson Ezinwa ( Nigeria ) 38.87
+O B-LOC O O B-PER I-PER O O O O
+O B-LOC O O B-PER I-PER O B-LOC O O
+
+SOCCER - THREE STANDARD LIEGE PLAYERS BANNED , CLUB FINED .
+O O O O B-ORG O O O O O O
+O O O B-ORG I-ORG O O O O O O
+
+UEFA came down heavily on Belgian club Standard Liege on Friday for " disgraceful behaviour " in an Intertoto final match against Karlsruhe of Germany .
+B-ORG O O O O B-MISC O B-ORG I-ORG O O O O O O O O O B-ORG O O O B-ORG O B-LOC O
+B-ORG O O O O B-MISC O B-ORG I-ORG O O O O O O O O O B-MISC O O O B-ORG O B-LOC O
+
+Roberto Bisconti will be sidelined for six Euro ties after pushing the referee in the back as he protested about a Karlsruhe goal , while Didier Ernst was banned for four matches for a verbal attack soon after Bisconti was also dismissed .
+B-PER I-PER O O O O O B-MISC O O O O O O O O O O O O O B-ORG O O O B-PER I-PER O O O O O O O O O O O O O O O O
+B-PER I-PER O O O O O B-MISC O O O O O O O O O O O O O B-ORG O O O B-PER I-PER O O O O O O O O O O O B-PER O O O O
+
+MONTE CARLO 1996-08-30
+B-PER I-PER O
+B-LOC I-LOC O
+
+Baratelli , who played for Nice and Paris St Germain , takes over from Albert Emon who was fired on Thursday after Nice 's home defeat to Guingamp 2-1 in the league .
+B-PER O O O O B-ORG O B-ORG I-ORG I-ORG O O O O B-PER I-PER O O O O O O O O O O O B-ORG O O O O O
+B-PER O O O O B-ORG O B-ORG I-ORG I-ORG O O O O B-PER I-PER O O O O O O B-ORG O O O O B-ORG O O O O O
+
+SOCCER - MILAN 'S LENTINI MOVES TO ATALANTA .
+O O B-ORG O B-PER O O B-LOC O
+O O B-ORG O B-PER O O B-ORG O
+
+The move to Bergamo-based Atalanta reunites Lentini , who fell out with ex-Milan coach Fabio Capello last season , with his former coach at Torino , Emiliano Mondonico .
+O O O B-MISC B-ORG O B-PER O O O O O O O B-PER I-PER O O O O O O O O B-ORG O B-PER I-PER O
+O O O B-MISC B-ORG O B-PER O O O O O B-MISC O B-PER I-PER O O O O O O O O B-ORG O B-PER I-PER O
+
+Next Series match : India v Zimbabwe , September 1 .
+O B-MISC O O B-LOC O B-LOC O O O O
+O O O O B-LOC O B-LOC O O O O
+
+overs cricket match in the Singer world series tournament on
+O O O O O B-ORG O O O O
+O O O O O B-MISC O O O O
+
+ROMANIA COMELF H1 PROFIT RISE BELOW TARGET .
+B-LOC O O O O O O O
+B-LOC B-ORG O O O O O O
+
+Treasury bills 152.80 +0.300 - 11.900
+O O O O O O
+B-ORG O O O O O
+
+Jones Medical Industries Inc said Friday it completed the acquisition of Daniels Pharmaceuticals Inc of St. Petersburg , Fla. , for about 2,960,000 shares of Jones common stock .
+B-ORG I-ORG I-ORG I-ORG O O O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC O B-LOC O O O O O O O O O O
+B-ORG I-ORG I-ORG I-ORG O O O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC O B-LOC O O O O O O B-ORG O O O
+
+NYMEX heating oil near session lows in pre-close .
+B-ORG O O O O O O O O
+O O O O O O O O O
+
+NYMEX refined product prices lingered at session lows amid slim volume before the close while crude experienced lackluster buying ahead of the U.S. Labor Day weekend , traders said .
+B-ORG O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-LOC B-MISC I-MISC O O O O O
+
+NYMEX will be closed Monday due to Labor Day .
+B-ORG O O O O O O B-MISC I-MISC O
+O O O O O O O B-MISC I-MISC O
+
+U.S. debt futures finished a shortened pre-holiday session sharply lower , as the markets were shaken by a stronger than expected rise in the August National Association of Purchasing Management ( NAPM ) index for the Chicago area , traders and analysts said .
+B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-MISC O O O O B-LOC O O O O O O O
+B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O B-LOC O O O O O O O
+
+Federal Reserve governor Lawrence Lindsey , speaking on U.S. cable television network CNBC , said the U.S. economy appears on balance to be a bit strong , adding the central bank would not curb growth provided inflation remains in check .
+B-ORG I-ORG O B-PER I-PER O O O B-LOC O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-ORG I-ORG O B-PER I-PER O O O B-LOC O O O B-ORG O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+
+Earlier in the day , Fed chairman Alan Greenspan said at the annual Jackson Hole symposium that the goal of price stability is within reach for major nations .
+O O O O O B-ORG O B-PER I-PER O O O O B-LOC I-LOC O O O O O O O O O O O O O O
+O O O O O B-ORG O B-PER I-PER O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O
+
+At the end of pit trade , December bonds were off 27/32 at 106-25/32 , 10-year notes down 21/32 at 105-17/32 , munibonds off 17/32 at 111-20/32 , December Eurodollars were down 11 bps at 93.94 , March Eurodollars were off 13 bps at 93.72 and March T-bills were down 12 bps at 94.33 .
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC O O O O O O O O B-MISC O O O O O O O O O O O O O O O O
+
+The acquisition will beef up Markham , Ontario-based Magna 's North American car and truck seating business , allowing it to better compete with Johnson Controls Inc and Lear Corp .
+O O O O O B-LOC O B-MISC B-ORG O B-MISC I-MISC O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-ORG I-ORG O
+O O O O O B-ORG O B-MISC B-ORG O B-MISC I-MISC O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-ORG I-ORG O
+
+The Iraqis claimed they were " ordinary people persecuted by the regime of Saddam ( Hussein ) " but interior ministry officials had consistently said it was likely the seven would be charged with hijack before any plea for asylum was considered .
+O B-MISC O O O O O O O O O O O B-PER I-PER I-PER I-PER O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O
+O B-MISC O O O O O O O O O O O B-PER O B-PER O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O
+
+The September Bund future on the London International Financial Futures and Options Exchange ( LIFFE ) was trading at 97.18 , down 0.20 from Thursday 's settlement price .
+O O B-MISC O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O
+O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O
+
+A sharp plunge in U.S. Treasuries after a shock rise in the Chicago PMI pulled gilts lower , but traders said the market was nervous anyway ahead of August MO data and the PMI survey due on Monday .
+O O O O B-ORG I-ORG O O O O O O B-LOC B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-ORG I-ORG O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The September notional bond future on the MATIF in Paris settled at 123.14 , up 0.04 from Thursday 's settlement price .
+O O O O O O O B-ORG O B-LOC O O O O O O O O O O O O
+O O O O O O O O O B-LOC O O O O O O O O O O O O
+
+ITALY - Bond futures held to easier levels in late afternoon after the sharp drop in Treasuries , but a resilient lira helped limit BTP losses .
+B-LOC O O O O O O O O O O O O O O O B-ORG O O O O O O O B-ORG O O
+B-LOC O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O
+
+Japanese Goverment Bonds futures which closed before the output data , lost much of day 's gains as Tokyo stock prices recovered from the day 's low.In after hours trading the September future on LIFFE was trading at 122.53 , up 0.26 from Thursday 's settlement price on the Tokyo Stock Exchange .
+B-MISC O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+
+EUROBONDS - Primary market activity was sharply lower , as players wound down ahead of Monday 's U.S. Labour Day holiday and next week 's U.S. employment data .
+O O O O O O O O O O O O O O O O O B-LOC B-MISC I-MISC O O O O O O O O O
+B-MISC O O O O O O O O O O O O O O O O B-LOC B-MISC I-MISC O O O O O B-LOC O O O
+
+Next week Kansai Electric Power and Kansai International Airport are likely to launch 10-year dollar deals .
+O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O O O O O O O O
+
+Boxing-Bruno quits on doctor 's advice .
+B-PER O O O O O O
+B-MISC O O O O O O
+
+Given , Breen , Staunton , Irwin , McAteer , Harte , McLoughlin , Houghton , Townsend , Quinn , O'Neill .
+B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-ORG O B-PER O B-PER O B-PER O
+B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O
+
+East Dries miners fail to report for work .
+B-LOC I-LOC O O O O O O O
+B-ORG I-ORG O O O O O O O
+
+At least 17 miners have been killed in labour unrest -- sparked by ethnic differences -- at Driefontein Consolidated and Gold Fields ' Kloof Gold Mining Co this month .
+O O O O O O O O O O O O O O O O O B-ORG I-ORG O B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG O O O
+O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O
+
+Yeltsin endorses Lebed Chechnya peace plan - agency .
+B-PER O B-ORG I-ORG O O O O O
+B-PER O B-PER B-LOC O O O O O
+
+Chernomyrdin said on Thursday after a meeting with Lebed and top officials , who discussed Lebed 's plans to restore peace in Chechnya , that it needed more work .
+B-PER O O O O O O O B-PER O O O O O O O O O O O O O B-LOC O O O O O O O
+B-PER O O O O O O O B-PER O O O O O O B-PER O O O O O O B-LOC O O O O O O O
+
+The Bosnian government radio broadcast said U.S. Assistant Secretary of State John Kornblum had reassured SDA officials , including presumably its leader , Bosnian President Alija Izetbegovic , whom he met during a Friday visit .
+O B-MISC O O O O B-LOC O O O O B-PER I-PER O O B-ORG O O O O O O O O O B-PER I-PER O O O O O O O O O
+O B-MISC O O O O B-LOC O O O O B-PER I-PER O O B-ORG O O O O O O O B-MISC O B-PER I-PER O O O O O O O O O
+
+The Federal Republic of Yugoslavia is the only country of the former Yugoslavia where Poles currently require visas .
+O B-LOC I-LOC I-LOC I-LOC O O O O O O O O O B-MISC O O O O
+O B-LOC I-LOC I-LOC I-LOC O O O O O O O B-LOC O B-MISC O O O O
+
+Earlier Russian news reports had said Yeltsin 's children and grandchildren had visited the Russian first lady but they said only that Yeltsin , on vacation outside Moscow , had spoken to her by telephone .
+O B-MISC O O O O B-PER O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O
+O B-MISC O O O O B-PER O O O O O O O B-MISC O O O O O O O B-PER O O O O B-LOC O O O O O O O O
+
+" Naina Yeltsin looks well , she is active , she is clearly getting better , " Yastrzhembsky quoted Yeltsin as saying .
+O B-PER I-PER O O O O O O O O O O O O O O B-PER O O O O O
+O B-PER I-PER O O O O O O O O O O O O O O B-PER O B-PER O O O
+
+Cofinec 's Global Depositary Receipts ( GDRs ) opened at 5,200 forints on the BSE , down 600 from Thursday 's close , following the release of its first half results this morning .
+B-ORG O B-MISC I-MISC I-MISC O B-MISC O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O
+B-ORG O O O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O
+
+Cofinec , the first foreign company to list on the Budapest bourse , released its consolidated first half figures ( IAS ) this morning .
+B-ORG O O O O O O O O O B-LOC O O O O O O O O O B-ORG O O O O
+B-ORG O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+
+In the conference call , Frater said he regarded Cofinec GDRs -- which are trading below their issue price of 6,425 forints -- as a buying opportunity .
+O O O O O B-PER O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O
+O O O O O B-PER O O O B-ORG O O O O O O O O O O O O O O O O O O
+
+Cofinec said Petofi general manager Laszlo Sebesvari had submitted his resignation and will be leaving Petofi but will remain on Petofi 's board of directors .
+B-ORG O B-ORG O O B-PER I-PER O O O O O O O O O O O O O O O O O O O
+B-ORG O B-ORG O O B-PER I-PER O O O O O O O O B-ORG O O O O B-ORG O O O O O
+
+I will in fact move to Kecskemet ( site of Petofi printing house ) for the interim and will serve as acting chief executive officer of Petofi , " Frater said .
+O O O O O O B-LOC O O O B-ORG O O O O O O O O O O O O O O O O O O B-PER O O
+O O O O O O B-LOC O O O B-ORG O O O O O O O O O O O O O O O B-ORG O O B-PER O O
+
+The police spokeman said plastic explosive like C-4 is not a normal component in claymore mines .
+O O O O O O O B-MISC O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+
+Brunswijk had been in police custody for 10 days after Freddy Pinas , a Surinamese-born visitor from the Netherlands , accused Brunswijk of trying to kill him in a bar-room brawl in the mining town of Moengo 56 miles ( 90 km ) east of Paramaribo .
+B-PER O O O O O O O O O B-PER I-PER O O B-MISC O O O B-LOC O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O B-LOC O
+B-PER O O O O O O O O O B-PER I-PER O O B-MISC O O O B-LOC O O B-PER O O O O O O O O O O O O O O B-LOC O O O O O O O O B-LOC O
+
+Far East Gold - Moribund market seen continuing .
+B-ORG I-ORG I-ORG O O O O O O
+B-LOC I-LOC O O O O O O O
+
+Silver , basis the September contract on New York 's Comex market , was expected to find support at between $ 5.12 - $ 5.15 an ounce and meet resistance from $ 5.25 - $ 5.30 , they added .
+O O O O O O O B-LOC I-LOC O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+Mona Eltahawy
+B-ORG I-ORG
+B-PER I-PER
+
+Geraghty said that the one thing that could completely turn the election around are new findings in the Whitewater scandal that would damage the Clintons .
+B-PER O O O O O O O O O O O O O O O O O B-ORG O O O O O B-PER O
+B-PER O O O O O O O O O O O O O O O O O B-LOC O O O O O B-PER O
+
+The Standard & Poor 's index of 500 stocks was off 5.41 points at 651.99 , down 15.03 points for the week .
+O O O O O O O O O O O O O O O O O O O O O O O
+O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+
+U.S. Agriculture Department officials said Friday that Mexican avocados -- which are restricted from entering the continental United States -- will not likely be entering U.S. markets any time soon , even if the controversial ban were lifted today .
+B-ORG I-ORG I-ORG O O O O B-MISC O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O
+B-ORG I-ORG I-ORG O O O O B-MISC O O O O O O O O O B-LOC I-LOC O O O O O O B-LOC O O O O O O O O O O O O O O
+
+" The opportunity to import ( Mexican avocados ) probably wo n't become possible for another year , " said Paul Drazek , senior trade advisor to Agriculture Secretary Dan Glickman .
+O O O O O O B-MISC O O O O O O O O O O O O O B-PER I-PER O O O O O B-ORG O B-PER I-PER O
+O O O O O O B-MISC O O O O O O O O O O O O O B-PER I-PER O O O O O O O B-PER I-PER O
+
+Mexican growers and distributors would have to abide by strict rules established by the Mexican and U.S. agriculture agencies .
+B-MISC O O O O O O O O O O O O O O O B-LOC O O O
+B-MISC O O O O O O O O O O O O O B-MISC O B-LOC O O O
+
+Ironically , Bernardin , who developed a progressive , much-praised programme to deal with pedophilia involving priests , became the highest-ranking church official ever accused of sexual improprieties when a former seminary student leveled charges in 1993 that he had been sexually abused by Bernardin during the 1970s .
+O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O
+
+Boatmen 's deal could spark more mergers .
+O O O O O O O O
+B-ORG I-ORG O O O O O O
+
+The $ 9.5 billion proposed acquisition of Boatmen 's Bancshares Inc. by NationsBank Corp. could spark a flurry of other mergers involving Missouri banks , which until last year were protected from outside buyers by state regulations .
+O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O B-LOC O O O O O O O O O O O O O O O
+O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O O O O B-LOC O O O O O O O O O O O O O O O
+
+St. Louis-based Mercantile Bancorp Inc. , a bank holding company with $ 18.04 billion in assets , was seen by many analysts as the most attractive Missouri franchise in size after Boatmen 's .
+B-MISC I-MISC B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O
+B-MISC I-MISC B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O B-ORG I-ORG O
+
+" It focuses more attention on Mercantile , Commerce and Roosevelt , " said James Weber , analyst at A.G. Edwards & Sons .
+O O O O O O O O O O B-ORG O O O B-PER I-PER O O O B-ORG I-ORG I-ORG I-ORG O
+O O O O O O B-ORG O B-ORG O B-ORG O O O B-PER I-PER O O O B-ORG I-ORG I-ORG I-ORG O
+
+Roosevelt Financial Group Inc is a $ 9.33 billion asset-St .
+B-ORG I-ORG I-ORG I-ORG O O O O O O O
+B-ORG I-ORG I-ORG I-ORG O O O O O B-MISC I-MISC
+
+Louis based thrift .
+B-LOC O O O
+B-MISC O O O
+
+Mercantile and Commerce did not return phone calls seeking comment .
+B-ORG I-ORG I-ORG O O O O O O O O
+B-ORG O B-ORG O O O O O O O O
+
+Boatmen 's was the prize in Missouri , where barriers to outside acquirers were brought down last year by a federal banking statute .
+O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+B-ORG I-ORG O O O O B-LOC O O O O O O O O O O O O O O O O O
+
+" Boatmen 's was the plum of Missouri and was the plum of the central Midwest , " Weber said .
+O O O O O O O B-LOC O O O O O O O B-LOC O O B-PER O O
+O B-ORG I-ORG O O O O B-LOC O O O O O O O B-LOC O O B-PER O O
+
+But NationsBank 's bid , representing a premium of 40 percent for Boatmen 's stock , was large enough to get the deal done .
+O B-ORG O O O O O O O O O O B-ORG O O O O O O O O O O O O
+O B-ORG O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O
+
+" I think Boatmen 's was shopping itself , and everybody knew if you wanted to be the winning buyer here , you had to make the bid nobody would beat , " Ancell said .
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O
+O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O
+
+They also questioned whether NationsBank can recoup shareholder value with such a large bid for Boatmen 's .
+O O O O B-ORG O O O O O O O O O O O O O
+O O O O B-ORG O O O O O O O O O O B-ORG I-ORG O
+
+The U.S. Treasury Department on Wednesday denied Farrakhan 's application to receive the $ 250,000 award or a $ 1 billion donation Libyan leader Muammar Gaddafi had pledged to Farrakhan 's Nation of Islam group after they met last January .
+O B-ORG I-ORG I-ORG O O O B-PER O O O O O O O O O O O O O O B-MISC O B-PER I-PER O O O O O B-ORG I-ORG I-ORG O O O O O O O
+O B-ORG I-ORG I-ORG O O O B-PER O O O O O O O O O O O O O O B-MISC O B-PER I-PER O O O B-PER O B-ORG I-ORG I-ORG O O O O O O O
+
+The Treasury Department said Libya was on the U.S. list of states that sponsor international terrorism and noted that Tripoli has refused to hand over two Libyan suspects in the 1988 bombing of Pan Am flight 103 over Lockerbie , Scotland .
+O B-ORG I-ORG O B-LOC O O O B-LOC O O O O O O O O O O B-LOC O O O O O O B-MISC O O O O O O B-ORG I-ORG O O O B-LOC O B-LOC O
+O B-ORG I-ORG O B-LOC O O O B-LOC O O O O O O O O O O B-LOC O O O O O O B-MISC O O O O O O B-MISC I-MISC I-MISC I-MISC O B-LOC O B-LOC O
+
+The number of working rigs in European / Mediterranean remained unchanged this week , with 105 rigs under contract out of a total fleet of 105 , a utilization rate of 100 percent .
+O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-MISC O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The Dole campaign released a letter Friday inviting their Clinton counterparts to meet with Dole campaign manager Scott Reed to discuss particulars of the televised debates .
+O B-PER O O O O O O O B-PER O O O O O O O B-PER I-PER O O O O O O O O
+O B-PER O O O O O O O B-PER O O O O B-PER O O B-PER I-PER O O O O O O O O
+
+Carroll Campbell , who was on Dole 's vice presidential short list before Dole decided on Jack Kemp , will head Dole 's team .
+B-PER I-PER O O O O B-PER O O O O O O O O O B-PER I-PER O O O O O O O
+B-PER I-PER O O O O B-PER O O O O O O B-PER O O B-PER I-PER O O O B-PER O O O
+
+Equipment problems and mechanical failure forced a recovery expedition to give up efforts to retrieve a giant slab of the RMS Titanic from the ocean floor , a spokeswoman said on Friday .
+O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O
+
+Israel announced this week the expansion of Jewish West Bank settlements surrounding Jerusalem and the demolition of an Arab community centre in East Jerusalem .
+B-LOC O O O O O O B-LOC I-LOC I-LOC O O B-LOC O O O O O B-MISC O O O B-LOC I-LOC O
+B-LOC O O O O O O B-MISC B-LOC I-LOC O O B-LOC O O O O O B-MISC O O O B-LOC I-LOC O
+
+Ruehe planned to meet his Israeli counterpart Yitzhak Mordechai and Israeli President Ezer Weizman , the ministry said .
+B-PER O O O O B-MISC O B-PER I-PER O O O B-PER I-PER O O O O O
+B-PER O O O O B-MISC O B-PER I-PER O B-MISC O B-PER I-PER O O O O O
+
+A Guinean man , detained in a round-up in the Saint-Bernard church a week ago , was deported on a scheduled Air France flight to Conakry after his appeals failed , a spokesman for Air France 's pro-Socialist CFDT union said .
+O B-MISC O O O O O O O O B-LOC O O O O O O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O O O O O B-ORG O O O
+O B-MISC O O O O O O O O B-LOC O O O O O O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O B-ORG I-ORG O O B-ORG O O O
+
+MARTELA H1 PROFIT FIM 6.3 MLN VS 21.0 MLN .
+B-ORG O O B-ORG O O O O O O
+B-ORG O O O O O O O O O
+
+Canadian bonds opened softer on Friday , pulled lower by a sinking U.S. market , but outperformed U.S. bonds on positive Canadian economic data , analysts said .
+B-MISC O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O
+B-MISC O O O O O O O O O O O B-LOC O O O O B-LOC O O O B-MISC O O O O O O
+
+Canada 's 8.0 percent bond due 2023 fell C$ 0.45 to C$ 101.15 to yield 7.894 percent .
+B-LOC O O O O O O O B-MISC O O O O O O O O O
+B-LOC O O O O O O O B-MISC O O B-MISC O O O O O O
+
+Statistics Canada on Friday reported Canada 's current account moved to a higher-than-expected C$ 1.15 billion second quarter surplus from a C$ 1.62 billion deficit in the first quarter .
+B-ORG I-ORG O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O
+B-ORG I-ORG O O O B-LOC O O O O O O O B-MISC O O O O O O O B-MISC O O O O O O O O
+
+While the data provided support for Canadian bonds , both Canadian and U.S. markets weakened after the release of strong U.S. economic data , including a report showing the Chicago Purchasing Managers August index rose to 60 from 51.2 in July .
+O O O O O O B-MISC O O O O O B-LOC O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O
+O O O O O O B-MISC O O O B-MISC O B-LOC O O O O O O O B-LOC O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O
+
+In other news , the Toronto Bond Traders ' Association said it is recommending that dealings in the Canadian bond market end early at 1400 EDT / 1800 GMT on Friday .
+O O O O O O O O O O O O O O O O O O B-MISC O O O O O O B-MISC O O B-MISC O O O
+O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O B-MISC O O O O O O O O O B-MISC O O O
+
+The Canadian market typically closes early on holiday weekends and Canadian financial markets will be closed on Monday for Labour Day .
+O B-MISC O O O O O O O O O O O O O O O O O B-MISC I-MISC O
+O B-MISC O O O O O O O O B-MISC O O O O O O O O B-MISC I-MISC O
+
+In other prices , the 7.0 percent of 2006 fell C$ 0.28 to C$ 96.89 to yield 7.437 percent .
+O O O O O O O O O O B-MISC O O O O O O O O O
+O O O O O O O O O O B-MISC O O B-MISC O O O O O O
+
+Aw Computer Systems Inc Q2 loss widens .
+B-ORG I-ORG I-ORG I-ORG O O O O
+O B-ORG I-ORG I-ORG O O O O
+
+IPO FILING -- Homegate Hospitality Inc .
+B-ORG O O B-ORG I-ORG I-ORG O
+O O O B-ORG I-ORG I-ORG O
+
+Company Name Homegate Hospitality Inc
+O O B-ORG I-ORG I-ORG
+O B-MISC B-ORG I-ORG I-ORG
+
+" Israel could not confront a united Arab stand or usurp their rights because the Arab rights could be regained when they achieve unity and solidarity , " Damascus radio said .
+O B-LOC O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O B-LOC O O O
+O B-LOC O O O O O B-MISC O O O O O O O B-MISC O O O O O O O O O O O O B-LOC O O O
+
+More than 960 people have been killed in the armed struggle the Gama'a launched in 1992 to topple President Hosni Mubarak 's government and establish a purist Islamic state in its place
+O O O O O O O O O O O O B-ORG O O O O O O B-PER I-PER O O O O O O B-MISC O O O O
+O O O O O O O O O O O O B-MISC O O O O O O B-PER I-PER O O O O O O B-MISC O O O O
+
+Palestinian President Arafat , attacking Israel 's decision to expand Jewish settlements and its policy on Jerusalem , went before the Palestinian legislature on Wednesday to urge the two million Arabs in the West Bank and Gaza to go to the holy city .
+B-MISC O B-PER O O B-LOC O O O O B-MISC O O O O O B-LOC O O O O O O O O O O O O O B-MISC O O B-LOC I-LOC O B-LOC O O O O O O O
+B-MISC O B-PER O O B-LOC O O O O B-MISC O O O O O B-LOC O O O O B-MISC O O O O O O O O B-MISC O O B-LOC I-LOC O B-LOC O O O O O O O
+
+PRESALE - Bay Co Bldg Auth , Mich ..
+O O O O O O O O O
+O O B-ORG I-ORG I-ORG I-ORG O B-LOC O
+
+AMT : 1,200,000 DATE : 09/05/96 NYC Time : 1600 CUSIP : 072261
+O O O O O O B-MISC I-MISC O O O O O
+O O O O O O B-MISC O O O O O O
+
+ISSUER : Bay Co Building Authority ST : MI
+O O B-ORG I-ORG I-ORG I-ORG O O O
+O O B-ORG I-ORG I-ORG I-ORG O O B-LOC
+
+L.O. : Bodman , Longely & Dahling , Detroit
+O O O O O O O O B-LOC
+O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC
+
+Commerce said previously that spending at retail stores was up only 0.1 percent in July , partly because of softer sales of new cars and light trucks .
+B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+World Markets Overnight Summary - Aug 30 .
+B-MISC I-MISC I-MISC I-MISC O O O O
+O O O O O O O O
+
+STOCKS GOLD METALS
+B-ORG I-ORG I-ORG
+O O O
+
+NY Dow close London opening LME close
+B-LOC B-MISC O B-LOC O B-ORG O
+B-MISC I-MISC O B-LOC O B-ORG O
+
+" Seven percent creates psychological problems and a legitimate competitor for money from equities , " said Ralph Bloch , chief technical analyst at Raymond James .
+O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-ORG I-ORG O
+O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-PER I-PER O
+
+6 faces the key monthly employment report , which has been known to cause dramatic swings in stock prices .
+B-ORG O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+
+" We had two very strong economic reports , " said David Shulman , Salomon Bros . '
+O O O O O O O O O O O B-PER I-PER O B-ORG I-ORG O O
+O O O O O O O O O O O B-PER I-PER O B-ORG I-ORG I-ORG O
+
+Pirelli is linking with Hong Kong-based group CITIC Pacific in a venture to be called the Wuxi Tong Ling Company Ltd , which will operate in partnership with a local industrial company at its existing factory in Wuxi , Jiangsu province , Shanghai .
+B-ORG O O O B-MISC I-MISC O B-ORG I-ORG O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O
+B-ORG O O O B-MISC I-MISC O B-ORG I-ORG O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O B-LOC O B-LOC O O B-LOC O
+
+She emphasised that the move was positive because Pirelli will have management control of the Chinese venture , and it also showed another example of Pirelli exporting its technical know-how to developing markets .
+O O O O O O O O B-ORG O O O O O O B-MISC O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-ORG O O O O O O B-MISC O O O O O O O O O B-ORG O O O O O O O O
+
+Market-making in the rarely-traded FTO contract was expected to begin today , but an EOE spokesman said the 10 banks and brokers involved in the initiative needed time to get accustomed to changes in the electronic trading system .
+O O O O B-MISC O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-ORG O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+
+Investors in Dutch bonds currently use German bond futures to hedge their portfolios because the FTO contract is so illiquid .
+O O B-MISC O O O B-MISC O O O O O O O O B-MISC O O O O O
+O O B-MISC O O O B-MISC O O O O O O O O B-ORG O O O O O
+
+The head of an international mediating mission defended its record on Friday in the face of criticism by pro-Moscow leaders in breakway Chechnya and insisted it was doing its best to bring peace to the region .
+O O O O O O O O O O O O O O O O O O B-MISC O O O B-LOC O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+
+But one must not forget that the OSCE only has limited powers there , " said Cotti , who is also the Swiss foreign minister . "
+O O O O O O O B-ORG O O O O O O O O B-PER O O O O O B-MISC O O O O
+O O O O O O O B-ORG O O O O O O O O O O O O O O B-MISC O O O O
+
+Pro-Moscow leaders in Chechnya have criticised Tim Guldimann , the Swiss diplomat who heads the OSCE Chechnya mission , saying he was biased toward Zelimkhan Yandarbiyev , president of the self-declared separatist government .
+B-MISC O O B-LOC O O B-PER I-PER O O B-MISC O O O O B-LOC I-LOC O O O O O O O B-PER I-PER O O O O O O O O
+B-MISC O O B-LOC O O B-PER I-PER O O B-MISC O O O O B-ORG B-LOC O O O O O O O B-PER I-PER O O O O O O O O
+
+Cotti said Chechnya must remain part of Russia , but the solution to the conflict would be to accord the region maximum autonomy within Russia 's borders .
+B-PER O B-LOC O O O O B-LOC O O O O O O O O O O O O O O O O O O O O
+B-PER O B-LOC O O O O B-LOC O O O O O O O O O O O O O O O O B-LOC O O O
+
+" There is no doubt that Chechnya , according to OSCE principles , belongs to a state called Russia , " he said , pointing out that Russia was an OSCE member and it was not the organisation 's policy to challenge members ' sovereignty .
+O O O O O O B-LOC O O O B-ORG O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-LOC O O O B-ORG O O O O O O O B-LOC O O O O O O O O B-LOC O O B-ORG O O O O O O O O O O O O O O O
+
+The Dutch transport ministry had come in for pressure from a cross-section of Dutch members of parliaments in May this year , some of whom believed the aircraft had been carrying unlisted , dangerous goods .
+O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-MISC O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O
+
+The source , who spoke on condition of anonymity , said Azerbaijani presidential adviser Vafa Gulizade and his Armenian counterpart Zhirayr Liparityan met to discuss the disputed enclave on Wednesday and had now flown home .
+O O O O O O O O O O O B-MISC O O B-PER I-PER O O B-MISC O B-PER I-PER O O O O O O O O O O O O O O
+O O O O O O O O O O O B-PER O O B-PER I-PER O O B-MISC O B-PER I-PER O O O O O O O O O O O O O O
+
+Azerbaijan has said it is prepared to grant autonomy to Nagorno-Karabakh if Armenian forces pull out , but will not accept Armenia 's demands for the independence of the enclave .
+B-LOC O O O O O O O O O B-LOC O B-MISC O O O O O O O O B-LOC O O O O O O O O O
+B-LOC O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O O O O O O O O O
+
+LONGYEAR , Norway 1996-08-30
+O O B-LOC O
+B-LOC O B-LOC O
+
+Think of all that mixed together , with twisted , wrecked parts on the slope , " Onarheim , 29 , told Reuters .
+O O O O O O O O O O O O O O O O O B-PER O O O O B-ORG O
+O O O O O O O O O O O O O O O O O B-LOC O O O O B-ORG O
+
+Ericsson says wins 1.2 bln SKR China order .
+B-ORG O O O O B-ORG I-ORG O O
+B-ORG O O O O O B-LOC O O
+
+The order included AXE switching equipment , ISDN equipment , Intelligent Network ( IN ) products , broad-band multi-media communication network products , services and training , Ericsson spokesman Per Zetterquist told Reuters .
+O O O B-ORG O O O B-MISC O O B-ORG I-ORG O B-MISC O O O O O O O O O O O O O B-ORG O B-PER I-PER O B-ORG O
+O O O B-MISC O O O O O O B-MISC I-MISC O B-MISC O O O O O O O O O O O O O B-ORG O B-PER I-PER O B-ORG O
+
+But for the great majority of us , Hong Kong is our home and Hong Kong 's future is our future . "
+O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O
+O O O O O O O O B-LOC I-LOC O O O O B-LOC I-LOC O O O O O O O
+
+An agreement to bring peace to the southern Philippines is set to be initialed on Friday after delegates from the Philippine government and the Moro National Liberation Front ( MNLF ) concluded negotiations on the treaty which is set to end almost 25 years of conflict in the region .
+O O O O O O O O B-LOC O O O O O O O O O O O B-MISC O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-LOC O O O O O O O O O O O B-LOC O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O
+
+Around 2,000 of Indonesia 's controversial Timor national car made by Kia Motor Corp of South Korea arrived at Jakarta 's Tanjung Priok port on Thursday .
+O O O B-LOC O O B-LOC O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC O O B-LOC O B-LOC I-LOC O O O O
+O O O B-LOC O O O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC O O B-LOC O B-LOC I-LOC O O O O
+
+Apic Yamada - 6mth parent forecast .
+B-PER I-PER O O O O O
+B-ORG I-ORG O O O O O
+
+His aides said Arafat would hold the weekly meeting of the Palestinian self-rule Authority 's cabinet in Nablus on Saturday .
+O O O B-PER O O O O O O O B-MISC O B-ORG O O O B-LOC O O O
+O O O B-PER O O O O O O O B-ORG I-ORG I-ORG O O O B-LOC O O O
+
+The Palestinian letter from Marwan Jilani said the destruction of the Jerusalem centre was an effort by Israel to " alter the character , demographic composition and status of the Holy City of Jerusalem " and violated agreements between Israel and the Palestinian Liberation Organisation .
+O B-MISC O O B-PER I-PER O O O O O B-LOC O O O O O B-LOC O O O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O O O O O O B-ORG I-ORG I-ORG O
+O B-MISC O O B-PER I-PER O O O O O B-LOC O O O O O B-LOC O O O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O O O B-LOC O O B-ORG I-ORG I-ORG O
+
+Canada had recently donated $ 30 million to the centre , called the Burj al-Laqlaq Society .
+B-LOC O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+B-LOC O O O O O O O O O O O O B-LOC I-LOC I-LOC O
+
+SOCCER - REAL SCRAPE 1-1 DRAW IN SCRAPPY OPENING MATCH .
+O O B-ORG I-ORG O O O O O O O
+O O B-ORG O O O O O O O O
+
+The Republic of Ireland 's new-look side dispelled painful memories of their last visit to Liechtenstein by beating the Alpine part-timers 5-0 in a World Cup qualifier on Saturday .
+O B-LOC I-LOC I-LOC O O O O O O O O O O O B-LOC O O O B-ORG O O O O B-MISC I-MISC O O O O
+O B-LOC I-LOC I-LOC O O O O O O O O O O O B-LOC O O O B-MISC O O O O B-MISC I-MISC O O O O
+
+SOCCER - IRELAND BEAT LIECHTENSTEIN 5-0 IN WORLD CUP QUALIFIER .
+O O B-LOC O B-ORG O O B-MISC I-MISC O O
+O O B-LOC O B-LOC O O B-MISC I-MISC O O
+
+Leading scores after the final round of the British Masters golf tournament on Saturday ( British unless stated ) :
+O O O O O O O O B-MISC I-MISC O O O O O O O O O O
+O O O O O O O O B-MISC I-MISC O O O O O B-MISC O O O O
+
+284 Robert Allenby ( Australia ) 69 71 71 73 , Miguel Angel Martin ( Spain ) 75 70 71 68 ( Allenby won at first play-off hole )
+O B-PER I-PER O B-LOC O O O O O O B-PER I-PER I-PER O B-LOC O O O O O O O O O O O O O
+O B-PER I-PER O B-LOC O O O O O O B-PER I-PER I-PER O B-LOC O O O O O O B-PER O O O O O O
+
+291 Phillip Price 72 76 74 69 , Adam Hunter 70 79 73 69 , Peter O'Malley ( Australia ) 71 73 75 72 , Mark Roe 69 71 78 73 , Mike Clayton ( Australia ) 69 76 73 73
+O B-PER I-PER O O O O O B-PER I-PER O O O O O B-PER I-PER O B-LOC O O O O O O B-PER I-PER O O O O O B-PER I-PER O O O O O O O
+O B-PER I-PER O O O O O B-PER I-PER O O O O O B-PER I-PER O B-LOC O O O O O O B-PER I-PER O O O O O B-PER I-PER O B-LOC O O O O O
+
+SOCCER - SLOVAKIA BEAT FAROES IN WORLD CUP QUALIFIER .
+O O B-LOC O B-ORG O B-MISC I-MISC O O
+O O B-LOC O B-LOC O B-MISC I-MISC O O
+
+CYCLING - TOUR OF NETHERLANDS FINAL RESULTS / STANDINGS .
+O O O O B-LOC O O O O O
+O O B-MISC I-MISC I-MISC O O O O O
+
+between Roermond and Landgraaf on Saturday :
+O B-PER O B-ORG O O O
+O B-LOC O B-LOC O O O
+
+7. Luca Pavanello ( Italy ) Aki 11
+O B-PER I-PER O B-LOC O B-ORG O
+O B-PER I-PER O B-LOC O B-PER O
+
+BIRMINGHAM , England 1996-08-31
+B-LOC O B-LOC O
+B-ORG O B-LOC O
+
+pakistan
+B-LOC
+O
+
+Marion Clignet ( France ) 3:30.974 ( World Record ) beat Jane
+B-PER I-PER O B-LOC O O O B-MISC I-MISC O O B-PER
+B-PER I-PER O B-LOC O O O O O O O B-PER
+
+Mazeikyte ( Lithuania )
+B-LOC O B-LOC O
+B-PER O B-LOC O
+
+Rodriguez 's 18th homer , off Chad Ogea ( 7-5 ) in the first , gave Texas a 2-0 lead .
+B-PER O O O O O B-PER I-PER O O O O O O O O B-ORG O O O O
+B-PER O O O O O B-PER I-PER O O O O O O O O B-LOC O O O O
+
+The Indians had their four-game winning streak stopped .
+O B-ORG O O O O O O O
+O B-MISC O O O O O O O
+
+" It 's not something I 'm going to try to explain , " said Texas manager Johnny Oates about his team winning seven of the 10 meetings from Cleveland this season .
+O O O O O O O O O O O O O O O B-ORG O B-PER I-PER O O O O O O O O O O B-ORG O O O
+O O O O O O O O O O O O O O O B-LOC O B-PER I-PER O O O O O O O O O O B-ORG O O O
+
+New York snapped a season-high five-game losing streak and also got homers from Mariano Duncan , Darryl Strawberry and Jim Leyritz .
+B-ORG I-ORG O O O O O O O O O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+B-LOC I-LOC O O O O O O O O O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+
+Ex-Yankee Randy Velarde hit his 11th homer , his most at any professional level .
+B-MISC B-PER I-PER O O O O O O O O O O O O
+O B-PER I-PER O O O O O O O O O O O O
+
+Baltimore 's Eddie Murray cracked his 20th homer of the season and 499th of his career .
+B-LOC O B-PER I-PER O O O O O O O O O O O O O
+B-ORG O B-PER I-PER O O O O O O O O O O O O O
+
+Kansas City has scored only one run in two games .
+B-ORG I-ORG O O O O O O O O O
+B-LOC I-LOC O O O O O O O O O
+
+CRICKET - ESSEX AND KENT MADE TO SWEAT IN TITLE RACE .
+O O B-LOC O B-LOC O O O O O O O
+O O B-ORG O B-ORG O O O O O O O
+
+Warwickshire captain Tim Munton is tipping Surrey to emerge on top , impressed by the positive influence of Australian coach Dave Gilbert , but Derbyshire 's Australian captain Dean Jones is conceding nothing as his side chase their first title for 60 years .
+B-ORG O B-PER I-PER O O B-ORG O O O O O O O O O O O B-MISC O B-PER I-PER O O B-ORG O O O B-PER I-PER O O O O O O O O O O O O O O
+B-ORG O B-PER I-PER O O B-ORG O O O O O O O O O O O B-MISC O B-PER I-PER O O B-ORG O B-MISC O B-PER I-PER O O O O O O O O O O O O O O
+
+Currie 45 Heriot 's F.P. 5
+B-ORG O O O O O
+B-ORG O B-ORG I-ORG I-ORG O
+
+Melrose 107 Stirling County 10
+B-ORG O B-ORG I-ORG O
+B-ORG O B-ORG O O
+
+Former Wallaby captain Michael Lynagh began his career in English club rugby in impeccable fashion on Saturday to frustrate his old coach Bob Dwyer on his league coaching debut with Leicester .
+O B-ORG O B-PER I-PER O O O O B-MISC O O O O O O O O O O O O B-PER I-PER O O O O O O B-ORG O
+O B-ORG O B-PER I-PER O O O O B-MISC O O O O O O O O O O O O B-PER I-PER O O O O O O B-LOC O
+
+The new French connection at Harlequins also made a good start , Laurent Cabannes and Laurent Benezech scoring a try apiece in their side 's 75-19 victory over Gloucester .
+O O B-MISC O O B-ORG O O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O B-ORG O
+O O B-MISC O O B-LOC O O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O B-ORG O
+
+With the first day of the league season briefly shifting the spotlight away from the discord between the clubs and the Rugby Football Union , there were also emphatic victories for champions Bath , 56-13 winners over Orrell , and Northampton and narrow successes for Wasps and Bristol .
+O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O B-ORG O O O O B-PER O O B-ORG O O O O B-ORG O B-ORG O
+O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O B-ORG O O O O B-ORG O O B-ORG O O O O B-ORG O B-ORG O
+
+Queen 's Park 3 1 1 1 6 8 4
+O O O O O O O O O O
+B-ORG I-ORG I-ORG O O O O O O O
+
+Queen 's Park 1 Forfar 4
+O O O O B-ORG O
+B-ORG I-ORG I-ORG O B-ORG O
+
+Shrewsbury 0 Brentford3
+B-ORG O O
+B-ORG O B-ORG
+
+At Tunbridge Wells : Nottinghamshire 214 and 167-6 ( C. Tolley 64 not out ) , Kent 244 ( C. Hooper 58 ; C. Tolley 4-68 , K. Evans 4-71 )
+O B-LOC I-LOC O B-ORG O O O O B-PER I-PER O O O O O B-ORG O O B-PER I-PER O O O O O O B-PER I-PER O O
+O B-LOC I-LOC O B-ORG O O O O B-PER I-PER O O O O O B-ORG O O B-PER I-PER O O B-PER I-PER O O B-PER I-PER O O
+
+1. Alex Zanardi ( Italy ) , Reynard Honda , 53.980 ( 113.576
+O B-PER I-PER O B-LOC O O B-PER I-PER O O O O
+O B-PER I-PER O B-LOC O O B-ORG I-ORG O O O O
+
+2. Michael Andretti ( U.S. ) , Lola Ford Cosworth , 54.483
+O B-PER I-PER O B-LOC O O B-PER I-PER I-PER O O
+O B-PER I-PER O B-LOC O O B-ORG I-ORG I-ORG O O
+
+3. Bobby Rahal ( U.S. ) , Reynard Mercedes-Benz , 54.507
+O B-PER I-PER O B-LOC O O B-PER I-PER O O
+O B-PER I-PER O B-LOC O O B-ORG I-ORG O O
+
+4. Bryan Herta ( U.S. ) , Reynard Mercedes-Benz , 54.578
+O B-PER I-PER O B-LOC O O B-PER I-PER O O
+O B-PER I-PER O B-LOC O O B-ORG I-ORG O O
+
+5. Jimmy Vasser ( U.S. ) , Reynard Honda , 54.617
+O B-PER I-PER O B-LOC O O B-PER I-PER O O
+O B-PER I-PER O B-LOC O O B-ORG I-ORG O O
+
+7. Al Unser Jr ( U.S. ) , Penske Mercedes-Benz , 54.683
+O B-PER I-PER I-PER O B-LOC O O B-ORG I-ORG O O
+O B-PER I-PER O O B-LOC O O B-ORG I-ORG O O
+
+8. Andre Ribeiro ( Brazil ) , Lola Honda , 54.750
+O B-PER I-PER O B-LOC O O B-PER I-PER O O
+O B-PER I-PER O B-LOC O O B-ORG I-ORG O O
+
+9. Mauricio Gugelmin ( Brazil ) , Reynard Ford Cosworth , 54.762
+O B-PER I-PER O B-LOC O O B-PER I-PER I-PER O O
+O B-PER I-PER O B-LOC O O B-ORG I-ORG I-ORG O O
+
+10. Gil de Ferran ( Brazil ) , Reynard Honda , 54.774
+O B-PER I-PER I-PER O B-LOC O O B-PER I-PER O O
+O B-PER I-PER I-PER O B-LOC O O B-ORG I-ORG O O
+
+Canada beat Panama 3-1 ( halftime 2-0 ) in their CONCACAF semifinal phase qualifying match for the 1998 World Cup on Friday .
+B-LOC O B-LOC O O O O O O O B-MISC O O O O O O B-MISC I-MISC I-MISC O O O
+B-LOC O B-LOC O O O O O O O B-ORG O O O O O O O B-MISC I-MISC O O O
+
+RUGBY UNION - SPRINGBOKS FINALLY BREAK ALL BLACK SPELL .
+B-ORG I-ORG O B-ORG O O O B-ORG I-ORG O
+B-ORG I-ORG O B-ORG O O B-ORG I-ORG O O
+
+Their promise was realised when Joubert made a 40-metre break in the 25th minute and , although winger Pieter Hendriks appeared to knock on Joubert 's reverse pass , Welsh referee Derek Bevan allowed Van der Westhuizen to pick up and score under the posts .
+O O O O O B-PER O O O O O O O O O O O O B-PER I-PER O O O O O O O O O B-MISC O B-PER I-PER O B-PER I-PER I-PER O O O O O O O O O
+O O O O O B-PER O O O O O O O O O O O O B-PER I-PER O O O O B-PER O O O O B-MISC O B-PER I-PER O B-PER I-PER I-PER O O O O O O O O O
+
+South Africa - 15 - Andre Joubert , 14 - Justin Swart , 13 - Japie Mulder ( Joel Stransky , 48 mins ) 12 - Danie van Schalkwyk , 11 - Pieter Hendriks ; 10 - Henry Honiball , 9 - Joost van der Westhuizen ; 8 - Gary Teichmann ( captain ) , 7 - Andre Venter ( Wayne Fyvie , 75 ) , 6 - Ruben Kruge , 5 - Mark Andrews ( Fritz van Heerden , 39 ) , 4 - Kobus Wiese , 3 - Marius Hurter , 2 - James Dalton , 1 - Dawie Theron ( Garry Pagel , 66 ) .
+B-LOC I-LOC O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O B-PER I-PER O O O O O O B-PER I-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER I-PER I-PER O O O B-PER I-PER O O O O O O B-PER I-PER O B-PER I-PER O O O O O O B-PER I-PER O O O B-PER I-PER O B-PER I-PER I-PER O O O O O O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O B-PER I-PER O O O O
+B-LOC I-LOC O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O B-PER I-PER O O O O O O B-PER I-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER I-PER I-PER O O O B-PER I-PER O O O O O O B-PER I-PER O B-PER I-PER O O O O O O B-PER I-PER O O O B-PER I-PER O B-PER I-PER I-PER O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O B-PER I-PER O O O O
+
+Mauritania 's soccer federation dissolved the national team and suspended this season 's domestic championship on Saturday in the wake of the country 's failure to qualify for the African Nations ' Cup .
+B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O
+
+Zemun 1 Rad ( B ) 0
+B-ORG O B-ORG I-ORG I-ORG I-ORG O
+B-ORG O B-ORG O O O O
+
+Radnicki ( N ) - Spartak ( to be played on Sunday )
+B-ORG O O O O B-ORG O O O O O O O
+B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O
+
+BASKETBALL - TROFEJ BEOGRAD TOURNAMENT RESULTS .
+O O B-MISC I-MISC O O O
+O O B-MISC I-MISC I-MISC O O
+
+Results in the Trofej Beograd 96
+O O O B-MISC I-MISC O
+O O O B-MISC I-MISC I-MISC
+
+BASKETBALLSOCCER - TROFEJ BEOGRAD TOURNAMENT RESULTS .
+O O B-ORG I-ORG O O O
+O O B-MISC I-MISC I-MISC O O
+
+Results in the Trofej Beograd 96
+O O O B-MISC I-MISC O
+O O O B-MISC I-MISC I-MISC
+
+BASKETBALL - BENETTON BEAT DINAMO 92-81 .
+O O B-PER O B-ORG O O
+O O B-ORG O B-ORG O O
+
+SOCCER - ENGLAND BEAT MOLDOVA IN UNDER-21 QUALIFIER .
+O O B-LOC O B-PER O O O O
+O O B-LOC O B-LOC O O O O
+
+England beat Moldova 2-0 ( halftime 1-0 ) in a European Under-21 soccer championship group 2 qualifier on Saturday .
+B-LOC O B-LOC O O O O O O O B-MISC I-MISC O O O O O O O O
+B-LOC O B-LOC O O O O O O O B-MISC O O O O O O O O O
+
+SQUASH - HILL BRANDS WORLD CHAMPION JANSHER A CHEAT .
+O O B-ORG I-ORG O O B-PER O O O
+O O B-PER O O O B-PER O O O
+
+I shook him a bit but he will come out next time and be a better player for it -- that 's Jansher . "
+O O O O O O O O O O O O O O O O O O O O O O B-PER O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+
+Semifinal results in the Hong Kong Open on Saturday ( prefix number denotes seeding ) : 1 - Jansher Khan ( Pakistan ) beat Anthony Hill ( Australia ) 15-7 17-15 14-15 15-8 2 - Rodney Eyles ( Australia ) beat 4 - Peter Nicol ( Scotland ) 15-10 8-15 15-10 15-4
+O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O O O O B-PER I-PER O O O O O O B-PER I-PER O B-LOC O O O O O
+O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O O
+
+He is striving for his fourth career PGA Tour victory and first since the 1993 BellSouth Classic .
+O O O O O O O B-MISC I-MISC O O O O O O B-MISC I-MISC O
+O O O O O O O B-MISC I-MISC O O O O O B-MISC I-MISC I-MISC O
+
+TENNIS - SPAIN , U.S. TEAMS OPEN ON ROAD FOR 1997 FED CUP .
+O O B-LOC O B-LOC O O O O O O B-MISC I-MISC O
+O O B-LOC O B-LOC O O O O O B-MISC I-MISC I-MISC O
+
+TENNIS - DRAW FOR 1997 FED CUP WOMEN 'S TEAM TOURNAMENT .
+O O O O O B-MISC I-MISC O O O O O
+O O O O B-MISC I-MISC I-MISC O O O O O
+
+Draw for the women 's 1997 Fed Cup team tennis championships , as conducted at the U.S. Open on Saturday :
+O O O O O O B-MISC I-MISC O O O O O O O O B-MISC I-MISC O O O
+O O O O O B-MISC I-MISC I-MISC O O O O O O O O B-MISC I-MISC O O O
+
+World Group I , first round ( March 1-2 )
+B-MISC I-MISC I-MISC O O O O O O O
+O O O O O O O O O O
+
+World Group II , first round ( March 1-2 )
+B-MISC I-MISC I-MISC O O O O O O O
+O O O O O O O O O O
+
+SOCCER - U.S. BEAT EL SALVADOR 3-1 .
+O O B-LOC O B-ORG I-ORG O O
+O O B-LOC O B-LOC I-LOC O O
+
+BASEBALL - KEVIN BROWN LOWERS ERA AS MARLINS BEAT REDS .
+O O B-PER I-PER O O O B-PER O B-ORG O
+O O B-PER I-PER O B-MISC O B-ORG O B-ORG O
+
+Major league ERA leader Kevin Brown threw an eight-hitter and Devon White 's RBI double snapped a fifth-inning tie as the Florida Marlins beat the Cincinnati Reds 3-1 for their seventh straight win Friday .
+O O O O B-PER I-PER O O O O B-PER I-PER O B-MISC O O O O O O O B-ORG I-ORG O O B-ORG I-ORG O O O O O O O O
+O O B-MISC O B-PER I-PER O O O O B-PER I-PER O B-MISC O O O O O O O B-ORG I-ORG O O B-ORG I-ORG O O O O O O O O
+
+I remember Nolan Ryan saying in ' 91 or ' 92 that he was the best young pitcher coming around in a long time and he saw ( Tom ) Seaver and ( Jerry ) Koosman when they were starting . "
+O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O B-PER O B-PER O O B-PER O B-PER O O O O O O
+O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER O B-PER I-PER I-PER I-PER O O O O O O
+
+Billy Ashley belted a three-run homer for Los Angeles .
+B-PER I-PER O O O O O B-LOC I-LOC O
+B-PER I-PER O O O O O B-ORG I-ORG O
+
+In the first game , Ryne Sandberg snapped an eighth-inning tie with an infield single and Kevin Foster ( 6-2 ) outdueled Atlanta 's Tom Glavine ( 13-8 ) for his third straight win , 3-2 .
+O O O O O B-PER I-PER O O O O O O O O O B-PER I-PER O O O O B-LOC O B-PER I-PER O O O O O O O O O O O
+O O O O O B-PER I-PER O O O O O O O O O B-PER I-PER O O O O B-ORG O B-PER I-PER O O O O O O O O O O O
+
+Mike Oquist allowed one Montreal hit in the ninth .
+B-PER I-PER O O B-ORG O O O O O
+B-PER I-PER O O B-LOC O O O O O
+
+Montreal lost for the ninth time in 14 games .
+B-ORG O O O O O O O O O
+B-LOC O O O O O O O O O
+
+BOXING - PRINCE NASEEM RETAINS WBO FEATHERWEIGHT TITLE .
+O O O B-PER O B-ORG O O O
+O O O B-PER O O O O O
+
+The Scots are not really a great team and we should have won , " he said .
+O B-MISC O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+
+Euro 96 absentee Nicolas Ouedec and Youri Djorkaeff scored the goals as 1998 World Cup hosts France beat Mexico 2-0 in a friendly international on Saturday .
+B-MISC I-MISC O B-PER I-PER O B-PER I-PER O O O O B-MISC I-MISC I-MISC O B-LOC O B-LOC O O O O O O O O
+B-MISC I-MISC O B-PER I-PER O B-PER I-PER O O O O O B-MISC I-MISC O B-LOC O B-LOC O O O O O O O O
+
+This allowed Djorkaeff to play further up and his cross from the right fell for Ouedec , who has joined Espanyol of Barcelona from Nantes since missing the European championship finals through injury , to score after a mistake by midfielder Joaquin del Olmo .
+O O B-PER O O O O O O O O O O O O B-PER O O O O B-ORG O B-ORG O B-ORG O O O B-MISC O O O O O O O O O O O O B-PER I-PER I-PER O
+O O B-PER O O O O O O O O O O O O B-PER O O O O B-ORG O B-LOC O B-ORG O O O B-MISC O O O O O O O O O O O O B-PER I-PER I-PER O
+
+Mexico - 1 - Osvaldo Sanchez ( 12 - Alfonso Rios 78th ) ; 13 - Pavel Pardo , 2 - Claudio Suarez , 5 - Duilio Davino ( Becerril 46th ) , 4 - German Villa ( 16 - Gomez 86th ) ; 14 - Joaquin del Olmo , 6 - Raul Rodrigo Lara ( 11 - Cuauhtemoc Blanco 65th ) , 8 - Alberto Garcia Aspe , 7 - Ramon Ramirez ( 15 - Jesus Arellano 71st ) ; 18 - Enrique Alfaro ( 17 - Francisco Palencia 78th ) , 10 - Luis Garcia ( 19 - Ricardo Pelaez 69th ) .
+B-LOC O O O B-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O B-PER O O O O O B-PER I-PER O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-LOC O O O B-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O B-PER O O O O O B-PER I-PER O O O B-PER O O O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER O O O B-PER I-PER O O O
+
+Belgium kicked off their 1998 World Cup campaign with a hard-fought 2-1 victory over 10-man Turkey in a tense match marred by Turkish crowd trouble shortly after the break .
+B-LOC O O O O B-MISC I-MISC O O O O O O O O B-LOC O O O O O O B-MISC O O O O O O O
+B-LOC O O O B-MISC I-MISC I-MISC O O O O O O O O B-LOC O O O O O O B-MISC O O O O O O O
+
+Brazilian-born Luis Oliveira then gleefully slipped the ball past goalkeeper Rustu Recber from the right of the area to make it 2-0 seven minutes before the interval , Turkey 's best first-half effort proving to be a vicious 30-metre shot by Ogun Temizkanoglu which De Wilde tipped over .
+B-MISC B-PER I-PER O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O B-PER I-PER O B-PER I-PER O O O
+O B-PER I-PER O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O B-PER I-PER O B-PER I-PER O O O
+
+Turkey - 1 - Rustu Recber , 4 - Hakan Unsal ( 14 - Sergen Yalcin , 57th ) , 2 - Recep Cetin , 3 - Ogun Temizkanoglu , 5 - Alpay Ozalan , 7- Abdullah Ercan , 6 - Tolunay Kafkas , 10 - Oguz Cetin ( 13 - Arif Erdem , 57th ) , 11 - Tayfun Korkut , 9 - Hakan Sukur , 8 - Saffet Sancakli ( 17- Orhan Cikirikci , 76th ) .
+B-LOC O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O B-PER I-PER O O O B-ORG I-ORG O O O B-PER I-PER O O O B-PER I-PER O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-ORG I-ORG O O B-PER I-PER O O O O
+B-LOC O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O B-PER I-PER O O O O
+
+Summary of game played in the Spanish first division on Saturday : Deportivo Coruna 1 ( Corentine Martins , 22nd minute ) Real Madrid 1 ( Roberto Carlos 79th ) .
+O O O O O O B-MISC O O O O O B-ORG I-ORG O O B-PER I-PER O O O O B-ORG I-ORG O O B-PER I-PER O O O
+O O O O O O B-MISC O B-MISC O O O B-ORG I-ORG O O B-PER I-PER O O O O B-ORG I-ORG O O B-PER I-PER O O O
+
+Attendancce 35,000 .
+B-LOC O O
+O O O
+
+Spanish first division on Saturday :
+B-MISC O O O O O
+B-MISC O B-MISC O O O
+
+A powerful right hook followed by a straight left gave defending champion Nate Miller a seventh round knock-out win over fellow American James Heath in their WBA cruiserweight title bout on Saturday .
+O O O O O O O O O O O O B-PER I-PER O O O O O O O B-MISC B-PER I-PER O O B-MISC O O O O O O
+O O O O O O O O O O O O B-PER I-PER O O O O O O O B-MISC B-PER I-PER O O B-ORG O O O O O O
+
+The Netherlands drew 2-2 with
+O B-LOC O O O
+B-LOC I-LOC O O O
+
+HORSE RACING - TATTERSALLS BREEDERS STAKES RESULT .
+O O O B-ORG I-ORG O O O
+O O O B-MISC I-MISC O O O
+
+3. Pelham 10-1 ( Warren O'Connor )
+O B-ORG O O B-PER I-PER O
+O B-PER O O B-PER I-PER O
+
+SOCCER - KLINSMANN TO RETIRE AFTER 1998 WORLD CUP .
+O O B-PER O O O O B-MISC I-MISC O
+O O B-PER O O O B-MISC I-MISC I-MISC O
+
+Romania beat 2-1 ( halftime 1-1 ) Lithuania in their European Under-21 soccer match on Friday .
+B-LOC O O O O O O B-LOC O O B-MISC I-MISC O O O O O
+B-LOC O O O O O O B-LOC O O B-MISC O O O O O O
+
+1706 - French troops under Duke of Orleans besieging Turin were defeated by the Austrians under Prince Eugene , the French army was destroyed and they ceased trying to capture northern Italy .
+O O B-MISC O O O O B-PER O B-LOC O O O O B-MISC O O B-PER O O O O O O O O O O O O O B-LOC O
+O O B-MISC O O O O B-LOC O B-LOC O O O O B-MISC O O B-ORG O O B-MISC O O O O O O O O O O B-LOC O
+
+1714 - The Treaty of Baden was signed between the Holy Roman Emperor Charles VI and France , ending War of Spanish Succession .
+O O O B-MISC I-MISC I-MISC O O O O B-MISC I-MISC O B-PER I-PER O B-LOC O O B-MISC I-MISC I-MISC I-MISC O
+O O O B-MISC I-MISC I-MISC O O O O O B-MISC O B-PER I-PER O B-LOC O O B-MISC I-MISC I-MISC I-MISC O
+
+Charles ceded Alsace and Strasbourg to France and got back Breisach , Kehl and Freiburg .
+B-PER O B-LOC O B-LOC O B-LOC O O O B-LOC O B-LOC O B-ORG O
+B-PER O B-LOC O B-LOC O B-LOC O O O B-LOC O B-LOC O B-LOC O
+
+1822 - Brazil proclaimed independence from Portugal and Pedro I became first Emperor of Brazil in December 1822 .
+O O B-LOC O O O B-LOC O B-PER I-PER O O O O O O O O O
+O O B-LOC O O O B-LOC O B-PER I-PER O O O O B-LOC O O O O
+
+1860 - Giuseppe Garibaldi leading his " Red Shirts " seized Naples in the Italian war of liberation against the Austrians .
+O O B-PER I-PER O O O B-ORG I-ORG O O B-LOC O O B-MISC O O O O O B-MISC O
+O O B-PER I-PER O O O B-MISC I-MISC O O B-LOC O O B-MISC O O O O O B-MISC O
+
+This imposed an indemnity to be paid to the great powers for Boxer crimes .
+O O O O O O O O O O O O B-PER O O
+O O O O O O O O O O O O B-MISC O O
+
+Best known for appearances in " Ice Cold in Alex " , " Lawrence of Arabia " and , as Cardinal Wolsey , in " Anne of a Thousand Days " .
+O O O O O O B-MISC I-MISC I-MISC I-MISC O O O B-PER I-PER I-PER O O O O O B-PER O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O
+O O O O O O B-MISC I-MISC I-MISC I-MISC O O O B-MISC I-MISC I-MISC O O O O O B-PER O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O
+
+1990 - British historian Alan John Percivale ( A.J.P. ) Taylor died .
+O O B-MISC O B-PER I-PER I-PER O B-PER O B-PER O O
+O O B-MISC O B-PER I-PER I-PER I-PER I-PER I-PER I-PER O O
+
+He won acclaim for the insights that he gave into the events which shaped modern Europe and was one of Europe 's leading authorities on the great conflicts of the 20th century .
+O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O O O O
+
+Holland was moved to a more secure centre earlier this year after a similar incident .
+B-LOC O O O O O O O O O O O O O O O
+B-PER O O O O O O O O O O O O O O O
+
+Conservatives have only 10 of the 72 Scottish seats in parliament and consistently run third in opinion polls in Scotland behind Labour and the independence-seeking Scottish National Party .
+B-ORG O O O O O O B-MISC O O O O O O O O O O O B-LOC O B-ORG O O O B-ORG I-ORG I-ORG O
+O O O O O O O B-MISC O O O O O O O O O O O B-LOC O B-ORG O O O B-ORG I-ORG I-ORG O
+
+Arbil lies within the so-called safe haven set up at the end of the 1991 Gulf War on the suggestion of British Prime Minister John Major to protect Iraqi Kurds from attack by the Iraqi military .
+B-LOC O O O O O O O O O O O O O O B-MISC I-MISC O O O O B-MISC O O B-PER I-PER O O B-MISC I-MISC O O O O O O O
+B-LOC O O O O O O O O O O O O O O B-MISC I-MISC O O O O B-MISC O O B-PER I-PER O O B-MISC I-MISC O O O O B-MISC O O
+
+An Iraqi opposition group in exile said on Saturday it had received reports that Iraqi forces were shelling and advancing on the Kurdish town of Arbil in northern Iraq .
+O B-MISC O O O O O O O O O O O O O O O O O O O O B-MISC O O B-LOC O O B-LOC O
+O B-MISC O O O O O O O O O O O O B-MISC O O O O O O O B-MISC O O B-LOC O O B-LOC O
+
+A London-based spokesman of the Iraqi National Congress said Iraqi artillery was shelling the city and Iraqi tanks had advanced to within 10 km ( six miles ) of Arbil , the administrative centre of the Kurdish rebel-controlled region of northern Iraq .
+O B-MISC O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-LOC O
+O B-MISC O O O B-ORG I-ORG I-ORG O B-MISC O O O O O O B-MISC O O O O O O O O O O O O B-LOC O O O O O O B-MISC O O O O B-LOC O
+
+On Thursday , Iraq accused Iran of aggression and said it reserved the right to retaliate for Tehran 's alleged deployment of troops into northern Iraq , where fighting broke out between the two main Iraqi Kurdish rebel groups two weeks ago .
+O O O B-LOC O B-LOC O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O
+O O O B-LOC O B-LOC O O O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O O B-MISC I-MISC O O O O O O
+
+South African right-wing Afrikaners on Saturday revived their campaign for a form of self-rule , identifying a sparsely-populated area in Northern Cape province as the best place for a home of their own .
+B-MISC I-MISC O B-MISC O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O
+B-MISC I-MISC O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O
+
+According to state television , Viljoen told the news conference the self-rule model should be introduced in parts of the Northern Cape provinces where a majority of people -- whites and mixed-race Coloureds -- speak Afrikaans .
+O O O O O B-PER O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O B-MISC O O B-MISC O
+O O O O O B-PER O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O B-MISC O
+
+The Rally for the Return of Refugees and Democracy in Rwanda ( RDR ) urged the U.N. High Commissioner for Refugees to avoid any " policing approach " and to calm refugees by explaining the aims of the operation .
+O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O
+
+Zairean Prime Minister Kengo wa Dondo said at the end of a visit to Rwanda last week that the Zairean and Rwandan governments agreed on an " organised , massive and unconditional repatriation " of the 1.1 million Rwandan refugees in Zaire .
+B-MISC O O B-PER I-PER I-PER O O O O O O O O B-LOC O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O B-LOC O
+B-MISC O O B-PER I-PER I-PER O O O O O O O O B-LOC O O O O B-MISC O B-MISC O O O O O O O O O O O O O O O O B-MISC O O B-LOC O
+
+A Reuters reporter who entered Mahala on Saturday morning found it tranquil but NATO troops and U.N. police were seen on the ground and NATO helicopters flew overhead .
+O B-ORG O O O B-LOC O O O O O O O B-ORG O O B-ORG O O O O O O O O O O O O
+O B-ORG O O O B-LOC O O O O O O O B-ORG O O B-ORG O O O O O O O B-ORG O O O O
+
+Russian military officials have expressed fears that the rebels and their supporters will see the deal signed by Russian peace envoy Alexander Lebed in the early hours of Saturday as a military victory for the separatists .
+B-MISC O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O
+B-MISC O O O O O O O O O O O O O O O O O B-MISC O O B-PER I-PER O O O O O O O O O O O O O O
+
+It involves the withdrawal of Russian troops sent to Chechnya in December 1994 to crush the separatists and a postponement of the issue at the heart of the conflict -- the status of the mainly-Moslem North Caucasus region .
+O O O O O B-MISC O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O
+O O O O O B-MISC O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-MISC B-LOC I-LOC O O
+
+Mamatuyev joked that his sister Lisa was a rebel too , and she responded by grabbing hold of his gun and shouting the Chechen war cry " Allahu Akhbar " ( God is Greatest ) and " Freedom for Chechnya ! "
+B-PER O O O O B-PER O O O O O O O O O O O O O O O O O B-MISC O O O B-MISC I-MISC O O B-PER O O O O O O O B-LOC O O
+B-PER O O O O B-PER O O O O O O O O O O O O O O O O O B-MISC O O O B-PER I-PER O O B-PER O O O O O O O B-LOC O O
+
+Only Sheriat ( Islamic law ) can end the war . "
+O B-PER O B-MISC O O O O O O O O
+O B-MISC O B-MISC O O O O O O O O
+
+A Polish consortium including the Bank Rozwoju Exportu SA ( BRE ) plans to rival France 's Hachette in bidding for Polish state-owned press distribution chain Ruch SA , Zycie Warszawy daily said on Saturday .
+O B-MISC O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O B-LOC O B-ORG O O O O O O O O B-ORG I-ORG O B-ORG I-ORG O O O O O
+O B-MISC O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O B-LOC O B-ORG O O O B-MISC O O O O B-ORG I-ORG O B-ORG I-ORG O O O O O
+
+The consortium wanted 40 percent of Ruch 's shares , the state would get 20 percent of Ruch and 40 percent would be offered on the Warsaw stock exchange .
+O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O B-LOC O O O
+O O O O O O B-ORG O O O O O O O O O O B-ORG O O O O O O O O B-LOC O O O
+
+" This division would guarantee a dispersal of capital , preventing anyone from taking total control over Ruch and dictating market conditions , " the paper quoted one of the initiators of the move as saying , without giving a name .
+O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-MISC O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+
+It aims to invest $ 200 million in Ruch over five years -- more than the sum Ruch says it needs to upgrade its outlets .
+O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O
+O O O O O O O O B-ORG O O O O O O O O B-ORG O O O O O O O O
+
+Initially Poland offered up to 75 percent of Ruch but in March Kaczmarek cancelled the tender and offered a minority stake with an option to increase the equity .
+O B-LOC O O O O O O B-ORG O O O B-ORG O O O O O O O O O O O O O O O O
+O B-LOC O O O O O O B-ORG O O O B-PER O O O O O O O O O O O O O O O O
+
+Puig 's first novel , " Bertillon 166 , " was published in 1960 , a year after the Cuban revolution brought President Fidel Castro to power .
+B-PER O O O O O B-MISC O O O O O O O O O O O O B-MISC O O O B-PER I-PER O O O
+B-PER O O O O O B-MISC I-MISC O O O O O O O O O O O B-MISC O O O B-PER I-PER O O O
+
+The titles of his other novels translate as " In the Year of January " ( 1963 ) , " The Collapse " ( 1964 ) , " Sleeping Bread " ( 1975 ) , " The Decaying Mansion " ( 1977 ) and " A World of Things " ( 1982 ) , followed by " The Knot , " " Soul Alone " and , most recently , " A Woman . "
+O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O B-MISC I-MISC O O O O O O B-MISC I-MISC O O B-MISC O O O B-MISC I-MISC I-MISC O O B-MISC O O O B-MISC I-MISC I-MISC I-MISC O O B-MISC O O O O O B-MISC I-MISC O O O B-MISC I-MISC O O O O O O O B-MISC I-MISC O O
+O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O B-MISC I-MISC O O O O O O B-MISC I-MISC O O O O O O B-MISC I-MISC I-MISC O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O B-MISC I-MISC O O O B-MISC I-MISC O O O O O O O B-MISC I-MISC O O
+
+Granma called " Sleeping Bread " Puig 's " greatest gift to the modern novel in our America . "
+O O O B-MISC I-MISC O B-PER O O O O O O O O O O B-LOC O O
+B-ORG O O B-MISC I-MISC O B-PER O O O O O O O O O O B-LOC O O
+
+SANTIAGO 1996-08-31
+B-LOC O
+B-PER O
+
+Gonzalo Montoya , a police commander in Tacambaro , told Radio Red the group was armed with AK-47s and other high-powered assault rifles and wore military-style fatigues .
+B-PER I-PER O O O O O B-LOC O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+B-PER I-PER O O O O O B-LOC O O B-ORG I-ORG O O O O O B-MISC O O O O O O O O O O
+
+Xiao Qiang , executive director of the New York-based group Human Rights in China , said Wang 's arrest on Friday appeared to be part of the national " Strike Hard " campaign that has imprisoned thousands and sent hundreds to their death .
+B-PER I-PER O O O O O B-MISC I-MISC O B-ORG I-ORG I-ORG I-ORG O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-PER I-PER O O O O O B-MISC I-MISC O B-ORG I-ORG I-ORG I-ORG O O B-PER O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O
+
+Philippine president Fidel Ramos expressed gratitude to Indonesian president Suharto and the Organisation of Islamic Conference ( OIC ) on Saturday for supporting talks that ended a conflict with local Moslem rebels .
+B-ORG O B-PER I-PER O O O B-MISC O B-PER O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O B-MISC O O
+B-LOC O B-PER I-PER O O O B-MISC O B-PER O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O B-MISC O O
+
+Ramos said the peace agreement " shall bring down the curtain on a long and storied era of strife in Philippine history . "
+B-PER O O O O O O O O O O O O O O O O O O O B-MISC O O O
+B-PER O O O O O O O O O O O O O O O O O O O B-LOC O O O
+
+His death came five weeks after James Leander ( Leo ) Nichols , a close friend of Suu Kyi and Danish honorary consul , died while serving a prison term at Insein .
+O O O O O O B-PER I-PER O B-PER O B-PER O O O O O B-PER I-PER O B-MISC O O O O O O O O O O B-LOC O
+O O O O O O B-PER I-PER I-PER I-PER I-PER I-PER O O O O O B-PER I-PER O B-MISC O O O O O O O O O O B-LOC O
+
+North Korea demanded on Saturday that South Korea return a northern war veteran who has been in the South since the 1950-53 war , Seoul 's unification ministry said .
+B-LOC I-LOC O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O B-LOC O O O O O
+B-LOC I-LOC O O O O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O B-LOC O O O O O
+
+" ...I request the immediate repatriation of Kim In-so to North Korea where his family is waiting , " North Korean Red Cross president Li Song-ho said in a telephone message to his southern couterpart , Kang Young-hoon .
+O O O O O O O B-PER I-PER O B-LOC I-LOC O O O O O O O B-MISC I-MISC B-ORG I-ORG O B-PER I-PER O O O O O O O O O O B-PER I-PER O
+O O O O O O O B-PER I-PER O B-LOC I-LOC O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-PER I-PER O O O O O O O O O O B-PER I-PER O
+
+Kim , an unrepentant communist , was captured during the Korean War and released after spending more than 30 years in a southern jail .
+B-PER O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O
+B-PER O O O O O O O O O B-MISC O O O O O O O O O O O O O O
+
+The domestic Yonhap news agency said the South Korean government would consider the northern demand only if the North accepted Seoul 's requests , which include regular reunions of families split by the Korean War .
+O O B-ORG O O O O B-MISC I-MISC O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O B-MISC I-MISC O
+O O B-ORG O O O O B-MISC I-MISC O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O B-MISC O O
+
+South Korea in 1993 unconditionally repatriated Li In-mo , a nothern partisan seized by the South during the war and jailed for more than three decades .
+B-LOC I-LOC O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O
+B-LOC I-LOC O O O O B-PER I-PER O O O O O O O B-LOC O O O O O O O O O O O
+
+Police in Hangzhou , capital of the eastern province of Zhejiang , told Wang 's family that Wang would be sent to a study class , a euphemism for coercive ideological reform , the group said .
+O O B-LOC O O O O O O O B-LOC O O B-PER O O O O O O O O O O O O O O O O O O O O O O O
+O O B-LOC O O O O O O O B-LOC O O B-PER O O O B-PER O O O O O O O O O O O O O O O O O O O
+
+Police also would not say why Wang was being sent to a study class -- a holdover from the chaotic 1966-76 Cultural Revolution -- or say when he would be released , the group said .
+O O O O O O B-PER O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O
+O O O O O O B-PER O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O
+
+Chen , a former army secretary of the Chinese Nationalist regime which fled from mainland China to Taiwan in 1949 , pleaded guilty to trafficking 42 kg ( 92 pounds ) of drugs that could have been turned into 25 kg ( 55 pounds ) of heroin .
+B-PER O O O O O O O B-MISC I-MISC O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-PER O O O O O O O B-MISC O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+Nerweyi said he did not know the size or nature of the Iranian force in northern Iraq , but said KDP fighters had been easily outgunned in the area close to the Iranian border and had quickly withdrawn further west .
+B-PER O O O O O O O O O O O B-MISC O O O B-LOC O O O B-ORG O O O O O O O O O O O O O O O O O O O O
+B-PER O O O O O O O O O O O B-MISC O O O B-LOC O O O B-ORG O O O O O O O O O O O B-MISC O O O O O O O O
+
+A U.N. official in Baghdad said the KDP , backed by Iraqi tanks , heavy artillery and helicopters had taken control of the main northern Iraqi city of Arbil after fighting on Saturday .
+O B-ORG O O B-LOC O O B-ORG O O O B-MISC O O O O O O O O O O O O O O O O B-LOC O O O O O
+O B-ORG O O B-LOC O O B-ORG O O O B-MISC O O O O O O O O O O O O O B-MISC O O B-LOC O O O O O
+
+U.S. President Bill Clinton has authorised the repositioning of U.S. firepower in the Gulf region in response to the Iraqi attacks .
+B-LOC O B-PER I-PER O O O O O O O O O B-LOC O O O O O B-MISC O O
+B-LOC O B-PER I-PER O O O O O B-LOC O O O B-LOC O O O O O B-MISC O O
+
+A committee monitoring the ceasefire agreement between Israel and Hizbollah guerrillas will meet in south Lebanon on Sunday to discuss an Israeli complaint against the Islamic group , the Israeli army said .
+O O O O O O O B-LOC O B-ORG O O O O O B-LOC O O O O O B-MISC O O O B-MISC O O O O O O O
+O O O O O O O B-LOC O B-ORG O O O O O B-LOC O O O O O B-MISC O O O B-MISC O O O B-MISC O O O
+
+KPD confirms Iraqi military aid-U.N. official .
+B-ORG O B-MISC O O O O
+B-ORG O B-MISC O B-MISC O O
+
+We got the information from KDP leaders in KDP headquarters in Saladdin , " the official , who asked not to be identified , told Reuters .
+O O O O O B-ORG O O O O O B-LOC O O O O O O O O O O O O O B-ORG O
+O O O O O B-ORG O O B-ORG O O B-LOC O O O O O O O O O O O O O B-ORG O
+
+Fire destroys restaurant in Bahraini village .
+O O O O B-MISC O O
+O O O O B-LOC O O
+
+A fire has completely gutted a Turkish-operated restaurant in a Bahraini village , residents said .
+O O O O O O B-MISC O O O B-MISC O O O O O
+O O O O O O O O O O B-LOC O O O O O
+
+Iraq 's Deputy Prime Minister Tareq Aziz said on Saturday Iraqi troops were fighting in northern Iraq to aid Kurdish rebel leader Massoud Barzani against rival forces .
+B-LOC O O O O B-PER I-PER O O O B-MISC O O O O O O O O B-MISC O O B-PER I-PER O O O O
+B-LOC O O O O B-PER I-PER O O O B-MISC O O O O O B-LOC O O B-MISC O O B-PER I-PER O O O O
+
+U.N. relief officials said they were not aware that the tanks advancing on Arbil were manned by Iraqi troops as they advanced from KDP-controlled areas and raised KDP flags .
+B-ORG O O O O O O O O O O O O B-LOC O O O B-MISC O O O O O B-MISC O O O B-ORG O O
+B-ORG O O O O O O O O O O O O B-LOC O O O B-MISC O O O O O O O O O B-ORG O O
+
+- After Tunisia called on France to respect Tunisian immigrants ' dignity , France says it welcomes legal Tunisian residents .
+O O B-LOC O O B-LOC O O B-MISC O O O O O O O O O O O O
+O O B-LOC O O B-LOC O O B-MISC O O O O B-LOC O O O O B-MISC O O
+
+An explosion leveled Rochester 's one-story Lilac Falls Motel , killing two people , fire officials said Friday .
+O O O B-LOC O O B-LOC I-LOC I-LOC O O O O O O O O O O
+O O O B-LOC O O B-LOC I-LOC O O O O O O O O O O O
+
+More than 300 U.S. warplanes and 20 ships were available on Saturday in case President Bill Clinton ordered the use of U.S. force against Iraqi military action in northern Iraq , U.S. defense officials said .
+O O O B-LOC O O O O O O O O O O O B-PER I-PER O O O O O O O B-MISC O O O O B-LOC O O O O O O
+O O O B-LOC O O O O O O O O O O O B-PER I-PER O O O O B-LOC O O B-MISC O O O O B-LOC O B-LOC O O O O
+
+They said 200 fighter planes , including 79 on the aircraft carrier Carl Vinson , were already in the Gulf ; the aircraft carrier Enterprise was in the eastern Mediterranean with 79 more , and an air expeditionary force with up to 40 more was ready to fly from the United States if ordered .
+O O O O O O O O O O O O B-LOC I-LOC O O O O O B-LOC O O O O B-ORG O O O O B-LOC O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O
+O O O O O O O O O O O O B-MISC I-MISC O O O O O B-LOC O O O O B-MISC O O O O B-MISC O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O
+
+There were unconfirmed reports that Iran had sent troops into northern Iraq in response to Iraq 's attack .
+O O O O O B-LOC O O O O O B-LOC O O O O O O O
+O O O O O B-LOC O O O O O B-LOC O O O B-LOC O O O
+
+U.S. plans rely heavily on U.S. air attacks on Iraqi forces , but there are also 23,000 U.S. troops in the region , according to defense officials .
+B-LOC O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O
+B-LOC O O O O B-LOC O O O B-MISC O O O O O O O B-LOC O O O O O O O O O O
+
+In addition to the 158 F / A-18 , F-14 and other fighter planes on the aircraft carriers Vinson and Enterprise , the Air Force air expeditionary force of 30 to 40 F-15 and F-16 fighter planes and fuel tankers is ready to fly from three U.S. bases in the United States , they said .
+O O O O O B-MISC I-MISC I-MISC O B-MISC O O O O O O O O B-LOC O B-ORG O O B-ORG I-ORG O O O O O O O B-MISC O B-MISC O O O O O O O O O O O B-LOC O O O B-LOC I-LOC O O O O
+O O O O O B-MISC I-MISC I-MISC O B-MISC O O O O O O O O B-MISC O B-MISC O O B-ORG I-ORG O O O O O O O B-MISC O B-MISC O O O O O O O O O O O B-LOC O O O B-LOC I-LOC O O O O
+
+The 23,000 U.S. military people already in the Gulf consist of 15,000 sailors and Marines , 6,000 U.S. servicemen based primarily in Saudi Arabia and 2,000 U.S. troops in the area for military exercises .
+O O B-LOC O O O O O B-LOC O O O O O B-ORG O O O O O O O B-LOC I-LOC O O O O O O O O O O O
+O O B-LOC O O O O O B-LOC O O O O O B-MISC O O B-LOC O O O O B-LOC I-LOC O O B-LOC O O O O O O O O
+
+Most of the Marines are on three ships in the Tarawa Amphibious Readiness Group .
+O O O B-ORG O O O O O O B-ORG I-ORG I-ORG I-ORG O
+O O O B-MISC O O O O O O B-ORG I-ORG I-ORG I-ORG O
+
+The Carl Vinson leads a battle group that includes seven other ships , and there are nine other U.S. ships in the Gulf for a total of 20 .
+O B-PER I-PER O O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O O
+O B-MISC I-MISC O O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O O
+
+A spokesman said he could substantially confirm a report in the news weekly Der Spiegel , which said Iranian secret police burst in while attache Jens Gust was entertaining six Iranian writers and their wives .
+O O O O O O O O O O O O O B-ORG I-ORG O O O B-MISC O O O O O O B-PER I-PER O O O O O O O O O
+O O O O O O O O O O O O O B-ORG I-ORG O O O B-MISC O O O O O O B-PER I-PER O O O B-MISC O O O O O
+
+Nyerere arrived in Rome this week on a private visit and held talks with the U.S. special envoy to Burundi , Howard Wolpe , and the Sant ' Egidio Community , an Italian Roman Catholic organisation which has been monitoring Burundi closely .
+B-PER O O B-LOC O O O O O O O O O O O B-LOC O O O B-LOC O B-PER I-PER O O O O O O O O O B-MISC B-MISC I-MISC O O O O O O O O
+B-PER O O B-LOC O O O O O O O O O O O B-LOC O O O B-LOC O B-PER I-PER O O O B-ORG I-ORG I-ORG I-ORG O O B-MISC B-MISC I-MISC O O O O O B-LOC O O
+
+Nyerere was due to be presented with an " Artisans for Peace " prize by the Lay Volunteers ' International Organisation on Sunday .
+B-PER O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O
+B-PER O O O O O O O O B-MISC I-MISC I-MISC O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O
+
+The U.N. Security Council on Friday condemned the coup by retired Tutsi major Pierre Buyoya and for the first time said in a resolution it intended to pressure Buyoya into unconditional negotiations with all parties and factions " without exception " .
+O B-ORG I-ORG I-ORG O O O O O O O B-MISC O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-ORG I-ORG I-ORG O O O O O O O B-MISC O B-PER I-PER O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O
+
+Buyoya on Saturday dismissed its threat of an arms embargo against Burundi and flatly ruled out talks with Hutu rebels .
+B-ORG O O O O O O O O O O B-LOC O O O O O O B-MISC O O
+B-PER O O O O O O O O O O B-LOC O O O O O O B-MISC O O
+
+Nato declines comment on fighting in Iraq .
+B-ORG O O O O O B-LOC O
+O O O O O O B-LOC O
+
+Earlier on Saturday , an Iraqi Kurd leader said both Iraqi troops and Kurdistan Democratic Party ( KDP ) forces were attacking the city of Arbil in northern Iraq .
+O O O O O B-MISC I-MISC O O O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O B-LOC O O B-LOC O
+O O O O O B-MISC I-MISC O O O B-MISC O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O B-LOC O O B-LOC O
+
+On Tuesday , thieves stole about 40 forearms from a shooting range in southern Belgium , including Kalashnikov , Uzi and Fal automatic weapons .
+O O O O O O O O O O O O O O B-LOC O O B-MISC O B-MISC O B-PER O O O
+O O O O O O O O O O O O O O B-LOC O O B-MISC O B-MISC O B-MISC O O O
+
+" There is no trace so far , the enquiry is continuing , " a Liege police official told Reuters .
+O O O O O O O O O O O O O O O B-ORG O O O B-ORG O
+O O O O O O O O O O O O O O O B-LOC O O O B-ORG O
+
+Late on Friday , Liege police said in a statement that on Thursday , Rachel Legeard , 18 , and Severine Potty , 19 , had gone shopping to the eastern town of Liege on Thursday , where Legeard 's wallet had been stolen .
+O O O O B-LOC O O O O O O O O O B-PER I-PER O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-LOC O O O O O O O O O B-PER I-PER O O O O B-PER I-PER O O O O O O O O O O O B-LOC O O O O B-PER O O O O O O
+
+VENICE , Italy 1996-08-31
+B-LOC O B-LOC O
+O O B-LOC O
+
+Dublin-born director Neil Jordan says he never lost more sleep over a film than over " Michael Collins " , his controversial epic about the IRA which has its premiere on Saturday at the Venice Film Festival .
+B-MISC O B-PER I-PER O O O O O O O O O O O O B-PER I-PER O O O O O O O B-ORG O O O O O O O O B-MISC I-MISC I-MISC O
+O O B-PER I-PER O O O O O O O O O O O O B-MISC I-MISC O O O O O O O B-ORG O O O O O O O O B-MISC I-MISC I-MISC O
+
+The film , starring Liam Neeson and Julia Roberts , recounts the life of Michael Collins , the Irish Republican Army 's Director of Intelligence who fought for Irish independence from 1919 to 1921 .
+O O O O B-PER I-PER O B-PER I-PER O O O O O B-PER I-PER O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O
+O O O O B-PER I-PER O B-PER I-PER O O O O O B-PER I-PER O O B-ORG I-ORG I-ORG O O O O O O O B-MISC O O O O O O
+
+" He developed techniques of guerilla warfare later copied by independence movements around the world , from Mao Tse-Tung in China to Yitzak Shamir in Israel , " Jordan said .
+O O O O O O O O O O O O O O O O O B-PER I-PER O B-LOC O B-PER I-PER O B-LOC O O B-LOC O O
+O O O O O O O O O O O O O O O O O B-PER I-PER O B-LOC O B-PER I-PER O B-LOC O O B-PER O O
+
+Leeson , the Northern Ireland-born actor who was nominated for an Oscar for best actor for his performance in " Schindler 's List " , plays the lead role in Jordan 's film .
+B-PER O O B-MISC I-MISC O O O O O O B-MISC O O O O O O O O O O O O O O O O O O B-PER O O O
+B-PER O O B-MISC I-MISC O O O O O O B-PER O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O B-PER O O O
+
+Much of the film was shot on location in Dublin with Jordan using thousands of its citizens as unpaid extras .
+O O O O O O O O O B-LOC O B-LOC O O O O O O O O O
+O O O O O O O O O B-LOC O B-PER O O O O O O O O O
+
+" I have never lost more sleep over the making of a film than I have over ' Michael Collins ' , but I 'll never make a more important one , " Jordan said .
+O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O B-PER O O
+O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O B-PER O O
+
